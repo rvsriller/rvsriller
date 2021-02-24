@@ -1,6 +1,9 @@
 ### Hallo Devs, Ich bin Riller 👋 :smiley: 
 
+I am from Juiz de Fora, Minas Gerais - Brazil and I'm looking forward to learn new things about web development!
 
+Sou Técnico em Informática, graduado em Análise e Desenvolvimento de Sistemas e mestrando em Ciência da Computação.
+Além de ter interesse em idiomas, sou apaixonado por tecnologia. Como costumo dizer, a tecnologia move o mundo e eu faço parte dessa mudança!
 <!--
 **rvsriller/rvsriller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

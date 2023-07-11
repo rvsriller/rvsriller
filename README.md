@@ -1,9 +1,8 @@
 ### Hallo Devs, Ich bin Riller 👋 :smiley: 
 
-I'm from Juiz de Fora, Minas Gerais - Brazil, currently learning web and game development.
-My background: Computer technician, graduated in Software Analysis and Development and master student in Computer Science.
+I'm from Juiz de Fora, Brazil, currently learning web and game development.
+My background: Computer technician, graduated in Software Analysis and Development, master student in Computer Science (Software Engineering), and HCI/ User Experience design specialist.
 
-Além de ter interesse em idiomas, também sou apaixonado por tecnologia.
 <!--
 **rvsriller/rvsriller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
